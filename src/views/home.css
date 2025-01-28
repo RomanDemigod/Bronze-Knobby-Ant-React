@@ -1,0 +1,174 @@
+.home-container {
+  top: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  position: sticky;
+  align-items: center;
+  margin-right: var(--dl-space-space-unit);
+  background-size: contain;
+  justify-content: center;
+  background-image: url("/achananimated-2000w.webp");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+ 
+.home-character-gacha {
+  top: 321px;
+  flex: 1;
+  right: 12px;
+  width: 100%;
+  height: 413px;
+  display: flex;
+  position: absolute;
+  max-width: 735px;
+  min-width: 735px;
+  max-height: 141px;
+  min-height: 141px;
+  text-align: right;
+  transition: 0.3s;
+  padding-top: 0px;
+  aspect-ratio: auto;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  animation-name: none;
+  padding-bottom: 0px;
+  animation-delay: 0s;
+  background-size: cover;
+  background-color: transparent;
+  background-image: 5cebf383-e671-40be-bf94-52ff34fb895d;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-character-gacha:hover {
+  right: 57px;
+  background-image: url("/character%20banners%20hover-200h.png");
+}
+ 
+.home-text1 {
+  fill: transparent;
+  color: transparent;
+}
+ 
+.home-armory {
+  top: 596px;
+  flex: 1;
+  right: 89px;
+  width: 100%;
+  height: 413px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  max-width: 735px;
+  min-width: 735px;
+  max-height: 129px;
+  min-height: 129px;
+  text-align: right;
+  transition: 0.3s;
+  aspect-ratio: auto;
+  border-width: 0px;
+  padding-left: 0px;
+  animation-name: none;
+  animation-delay: 0s;
+  background-size: cover;
+  background-color: transparent;
+  background-image: e3995714-ffd0-4605-9295-c407b9f70f0b;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-armory:hover {
+  right: 135px;
+  background-image: url("/armoryhover-200h.png");
+}
+ 
+.home-text2 {
+  fill: transparent;
+  color: transparent;
+}
+ 
+.home-gear {
+  top: 464px;
+  flex: 1;
+  right: 65px;
+  width: 100%;
+  height: 413px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  max-width: 732px;
+  min-width: 732px;
+  max-height: 108px;
+  min-height: 108px;
+  text-align: right;
+  transition: 0.3s;
+  aspect-ratio: auto;
+  border-width: 0px;
+  padding-left: 0px;
+  animation-name: none;
+  animation-delay: 0s;
+  background-size: cover;
+  background-color: transparent;
+  background-image: url("/upgrades-200h.png");
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+ 
+.home-gear:hover {
+  top: 464px;
+  right: 110px;
+  display: flex;
+  background-image: url("/upgradeshover-200h.png");
+}
+ 
+.home-text3 {
+  fill: transparent;
+  color: transparent;
+}
+ 
+.home-more-art {
+  top: 728px;
+  flex: 1;
+  right: 125px;
+  width: 100%;
+  height: 413px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  max-width: 696px;
+  min-width: 696px;
+  max-height: 132px;
+  min-height: 132px;
+  text-align: right;
+  transition: 0.3s;
+  aspect-ratio: auto;
+  border-width: 0px;
+  padding-left: 0px;
+  animation-name: none;
+  animation-delay: 0s;
+  background-size: cover;
+  background-color: transparent;
+  background-image: url("/more%20art-200h.png");
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-more-art:hover {
+  right: 170px;
+  background-image: url("/more%20arthover-200h.png");
+}
+ 
+.home-text4 {
+  fill: transparent;
+  color: transparent;
+}
